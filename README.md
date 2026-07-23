@@ -132,7 +132,7 @@ It demonstrates technical competency, business impact, and communication skills 
 
 ## Competency Showcase
 This project demonstrates:
-- **Technical skills** (Python, SQL, Power BI)  
+- **Technical skills** (Python, SQL, Power BI, DAX)  
 - **Business impact** (recommendations based on insights)  
 - **Communication skills** (report writing, AI‑assisted presentations)  
 
