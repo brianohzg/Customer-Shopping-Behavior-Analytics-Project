@@ -54,25 +54,28 @@ It demonstrates technical competency, business impact, and communication skills 
      - Which payment method is associated with the highest purchase amount?
 
    - Sample Query Results (Refer to file for entire results regarding business questions)
-   - <img width="500" height="140" alt="image" src="https://github.com/user-attachments/assets/e69d94ab-cd9b-401b-9c69-33dc61820ec3" />
-   - <img width="461" height="100" alt="image" src="https://github.com/user-attachments/assets/10b875ff-9562-4121-ba16-a803c5c2533f" />
+     <img width="500" height="140" alt="image" src="https://github.com/user-attachments/assets/e69d94ab-cd9b-401b-9c69-33dc61820ec3" />
+     <img width="461" height="100" alt="image" src="https://github.com/user-attachments/assets/10b875ff-9562-4121-ba16-a803c5c2533f" />
 
+4. **Build Cusomer Segmentation and Analysis**
+   - Utilize dataset to map "Recency" and "Frequency" framework
+   - <img width="460" height="280" alt="image" src="https://github.com/user-attachments/assets/d6bf3e76-fab9-46d8-8e9d-c406fa1a1a1b" />
+   - Plot and map RF customer segmentation into SQL analysis to view specific segmentation behavior
+     <img width="480" height="600" alt="image" src="https://github.com/user-attachments/assets/0274c8bb-e015-4789-a381-87e9056087b5" />
+  
 
-
-
-
-4. **Dashboard Creation**  
+6. **Dashboard Creation**  
    - File: [Dashboard_Customer Shopping Behavior.pbix](Dashboard_Customer%20Shopping%20Behavior.pbix)  
    - Built interactive Power BI dashboard to visualize KPIs, trends, customer segments and product listings. 
 
-5. **Business Report**  
+7. **Business Report**  
    - File: [Report_Customer Shopping Behavior Analysis.docx](Report_Customer%20Shopping%20Behavior%20Analysis.docx)  
    - Summarizes findings and provides actionable recommendations  
 
-6. **Presentation Slides**  
+8. **Presentation Slides**  
    - File: [PPT_Customer Shopping Behavior.pptx](PPT_Customer%20Shopping%20Behavior.pptx)  
    - Created with Gamma AI to showcase analysis insights and recommendation as performed in actual business world 
-   - <img width="400" height="238" alt="image" src="https://github.com/user-attachments/assets/f83ed19c-f568-4b6d-a83c-8274e8dc3c0c" />
+     <img width="400" height="238" alt="image" src="https://github.com/user-attachments/assets/f83ed19c-f568-4b6d-a83c-8274e8dc3c0c" />
 
 
 ---
@@ -85,7 +88,7 @@ It demonstrates technical competency, business impact, and communication skills 
   - Customer Segmentation, Subscription Rate by Customer Segmentation  
   - Revenue by Age Group, Sales by Age Group
   - Top Product listing by Review Ratings and Sales
-- <img width="800" height="460" alt="Customer Behavior Dashboard_Screenshot" src="https://github.com/user-attachments/assets/aa9b3931-3755-4023-ad69-682f407212b3" />
+  <img width="800" height="460" alt="Customer Behavior Dashboard_Screenshot" src="https://github.com/user-attachments/assets/aa9b3931-3755-4023-ad69-682f407212b3" />
 
 ---
 
