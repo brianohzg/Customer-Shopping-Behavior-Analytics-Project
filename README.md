@@ -93,9 +93,6 @@ It demonstrates technical competency, business impact, and communication skills 
 - **Key Insights:**
   - Males generate 2X more revenue than females 
   - No distinct differences for average purchase amount between Standard and Express shipping type 
-  - Top 10 products with highest average review ratings
-  - Top 5 discount dependant products
-  - Top 3 products per category
   - Non subscribed customers are 2.7x times more than subscribers and generate 2.7x times the revenue
   - Young Adults are top revenue contributing age group
   - Repeat buyers are not subscribers yet
@@ -103,10 +100,12 @@ It demonstrates technical competency, business impact, and communication skills 
   - Credit Card drove the highest purchase amount
 
 - **Business Recommendations:**
-  - Focus marketing on weekend campaigns  
-  - Expand bundled offers to increase basket size  
-  - Target seasonal promotions to younger segments  
-
+  - *Boost Subscriptions*: Promote exclusive benefits to convert non-subscribers and increase customer spending
+  - *Loyalty Program*: Reward repeat buyers into "Loyal" segment. Increase platform visits by creating engagement through games with "Core regular" segment
+  - *Review Discounts*: Balance sales boosts with margin control. Curate budget catered for various customer segmentation for efficient spending and ROI
+  - *Product Positioning*: Highlight top-rate, best selling products in campaign. Build Top-Of-The-Mind awareness
+  - *Target Marketing*: Focus on high revenue age groups and highlight payment method partnerships
+  - *Partnerships*: Partner up and collaborate with credit card companies to offer diverse platform payment plans and rewards.
 ---
 
 ## How to Run
