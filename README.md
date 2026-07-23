@@ -1,6 +1,3 @@
-# customer_shopping_behavior_analysis
-Data analytics project showcasing customer shopping behavior analysis using Python, PostgreSQL, and Power BI.
-
 # Customer Shopping Behavior Analytics
 
 ## 📌 Overview
@@ -17,7 +14,7 @@ It demonstrates technical competency, business impact, and communication skills 
 
 ## 📂 Dataset
 - **File:** [Dataset_customer_shopping_behavior.csv](Dataset_customer_shopping_behavior.csv)  
-- **Description:** Public dataset containing customer transactions, demographics, and shopping patterns.  
+- **Description:** Public dataset containing 3900 customer transactions, demographics, and shopping patterns.  
 - Used for EDA, SQL queries, and dashboard visualizations.
 
 ---
